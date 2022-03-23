@@ -64,7 +64,6 @@ input{
 @media screen and (max-width: 1200px) {
     .gallery-content {
         grid-template-columns: repeat(4, minmax(.1rem, 1fr));
-        grid-template-rows: repeat(8, minmax(.1rem, .2fr));
     }   
 }
 
