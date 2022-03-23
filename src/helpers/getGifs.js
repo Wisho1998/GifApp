@@ -1,5 +1,5 @@
 const getGifs =  async (category) =>{
-    const BASE_URL = "http://api.giphy.com/v1/gifs/search";
+    const BASE_URL = "https://api.giphy.com/v1/gifs/search";
     const API_KEY = "n7Sz3G7v32WC9j4nuNkE7sXrAHLBfECO";
 
     let search_text = category;
